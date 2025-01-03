@@ -1,0 +1,3 @@
+fastapi==0.100.0    # Latest stable version of FastAPI
+uvicorn==0.22.0     # ASGI server for local testing and development
+mangum==0.15.0      # ASGI adapter for AWS Lambda
