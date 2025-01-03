@@ -8,7 +8,7 @@ on:
 env:
   AWS_REGION: us-east-1         # Set your preferred AWS region
   ECR_REPOSITORY: test-ada    # Replace with your ECR repository name
-  LAMBDA_FUNCTION_NAME: lambda-function  # Replace with your Lambda function name
+  LAMBDA_FUNCTION_NAME: ogada  # Replace with your Lambda function name
   LAMBDA_ROLE_ARN: arn:aws:lambda:us-east-1:212924906803:function:ogada # Replace with your Lambda execution role ARN
 
 permissions:
